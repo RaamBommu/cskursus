@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgetInterface", "EgetInterf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareInterface", "CompareInterface\CompareInterface.csproj", "{A0089C35-3299-4FEC-815B-53D85D17BFBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateHeltSimple", "DelegateHeltSimple\DelegateHeltSimple.csproj", "{4F65B784-F3CB-4798-96C8-CBF7C63CEAE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{A0089C35-3299-4FEC-815B-53D85D17BFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0089C35-3299-4FEC-815B-53D85D17BFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0089C35-3299-4FEC-815B-53D85D17BFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F65B784-F3CB-4798-96C8-CBF7C63CEAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F65B784-F3CB-4798-96C8-CBF7C63CEAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F65B784-F3CB-4798-96C8-CBF7C63CEAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F65B784-F3CB-4798-96C8-CBF7C63CEAE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
